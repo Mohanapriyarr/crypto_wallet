@@ -10,5 +10,6 @@ class Paths{
   Paths._();
 
   static const HOME = '/home_page';
+  static const WALLET_CONNECTION = '/wallet_connection';
   
 }
